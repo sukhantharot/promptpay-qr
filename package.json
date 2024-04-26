@@ -16,7 +16,7 @@
     "jest": "^20.0.4",
     "standard": "^10.0.3"
   },
-  "name": "@sukhantharot.k/promptpay-qr",
+  "name": "@sukhantharot/promptpay-qr",
   "bin": {
     "promptpay-qr": "cli.js"
   },

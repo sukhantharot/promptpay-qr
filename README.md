@@ -2,7 +2,7 @@
 
 [Mobile web app](#mobile-web-app), [command line app](#cli), and [JavaScript library](#api) to generate QR Code payload for PromptPay.
 
-
+#clone from **https://www.npmjs.com/package/promptpay-qr**
 ## Introduction
 
 The Bank of Thailand [introduced a **PromptPay QRCode Standard**](https://thestandard.co/standardqrcode/) that works with most mobile banking apps in Thailand.

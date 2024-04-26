@@ -16,9 +16,9 @@
     "jest": "^20.0.4",
     "standard": "^10.0.3"
   },
-  "name": "promptpay-qr",
+  "name": "@sukhantharot.k/promptpay-qr",
   "bin": {
-    "promptpay-qr": "./cli.js"
+    "promptpay-qr": "cli.js"
   },
   "version": "0.5.0",
   "description": "Library to generate PromptPay payload and CLI script to generate QR code",
@@ -38,5 +38,10 @@
     "url": "https://github.com/dtinth/promptpay-qr/issues"
   },
   "homepage": "https://github.com/dtinth/promptpay-qr#readme",
-  "docModel": "./promptpay-qr.api.json"
+  "docModel": "./promptpay-qr.api.json",
+  "types": "./index.d.ts",
+  "keywords": [
+    "promptpay",
+    "qr"
+  ]
 }
